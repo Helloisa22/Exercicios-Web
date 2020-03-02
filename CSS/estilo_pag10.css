@@ -1,0 +1,17 @@
+#container{
+    width: 1000px; /*cumprimento*/
+    height: 100px; /* altura*/
+    position: relative;
+	top: 150px; /*para baixo da página*/
+	left: 350px; /*A direita da página*/ 
+    font-size: 23px; /*Fonte das letras*/
+}
+
+#container2{
+    width: 1000px; /*cumprimento*/
+    height: 100px; /* altura*/
+    position: relative;
+	top: 250px; /*para baixo da página*/
+	left: 350px; /*A direita da página*/ 
+    font-size: 23px; /*Fonte das letras*/
+}
